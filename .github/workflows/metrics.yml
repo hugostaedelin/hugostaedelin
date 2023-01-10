@@ -16,9 +16,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update metrics"
+#          committer_token: ${{ secrets.GITHUB_TOKEN }}
+#          committer_branch: github-metrics
+#          committer_message: "build: update metrics"
           # Options
           user: hugostaedelin
           template: classic
@@ -35,9 +35,9 @@ jobs:
           filename: language.svg
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update metrics"
+#          committer_token: ${{ secrets.GITHUB_TOKEN }}
+#          committer_branch: github-metrics
+#          committer_message: "build: update metrics"
           # Options
           user: hugostaedelin
           template: classic
