@@ -20,4 +20,4 @@ jobs:
           with:
             devcard_id: ${{ secrets.DEVCARD_ID }}  
             commit_branch: devcard
-            commit_message: "chore: update ${filename}"
+            commit_message: "chore: update `${filename}`"
