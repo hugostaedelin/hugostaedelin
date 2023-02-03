@@ -13,3 +13,4 @@
 ![Metrics](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/metrics/language.svg)
 ![Calendar](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/metrics/calendar.svg)
+![Achievements](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/metrics/achievements.svg)
