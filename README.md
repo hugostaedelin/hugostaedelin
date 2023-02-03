@@ -10,6 +10,6 @@
   </a>
 </div>
 
-![Metrics](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/main/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/e52cc740fd2cd9f028416a3fc6b433eb94a8b45d/language.svg)
-![Calendar](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/main/calendar.svg)
+![Metrics](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/metrics/language.svg)
+![Calendar](https://raw.githubusercontent.com/hugostaedelin/hugostaedelin/metrics/calendar.svg)
