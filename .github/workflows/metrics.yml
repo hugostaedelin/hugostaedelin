@@ -18,7 +18,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update metrics"
+          committer_message: "chore: update `${filename}`"
           # Options
           user: hugostaedelin
           template: classic
@@ -37,7 +37,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update metrics"
+          committer_message: "chore: update `${filename}`"
           # Options
           user: hugostaedelin
           template: classic
@@ -60,7 +60,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
-          committer_message: "build: update metrics"
+          committer_message: "chore: update `${filename}`"
           user: hugostaedelin
           template: classic
           base: ""
